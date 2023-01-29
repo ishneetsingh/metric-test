@@ -1,0 +1,9 @@
+numpy
+opencv-python-headless==4.6.0.66
+tensorflow-hub
+pillow==9.0.1
+tensorflow
+matplotlib==3.5.1
+streamlit_webrtc
+av
+scikit-learn
