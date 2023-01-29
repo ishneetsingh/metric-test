@@ -1,9 +1,13 @@
 numpy
+onnx
+onnxruntime
+Cython
+cmake
 opencv-python-headless==4.6.0.66
 tensorflow-hub
 pillow==9.0.1
-tensorflow
-matplotlib==3.5.1
+@@ -12,4 +8,3 @@ temp
 streamlit_webrtc
+thread6
 av
-scikit-learn
+insightface
