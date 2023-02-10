@@ -11,3 +11,4 @@ streamlit_webrtc
 thread6
 av
 insightface
+streamlit
