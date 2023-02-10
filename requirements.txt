@@ -11,4 +11,4 @@ streamlit_webrtc
 thread6
 av
 insightface
-streamlit
+protobuf<4,>=3.20.2
